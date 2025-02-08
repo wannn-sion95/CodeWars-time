@@ -1,3 +1,4 @@
 <i><h2>Learning By Practice Python with CodeWars</h2></i>
-![Alt text](https://pin.it/4Dd0TzQZV)
+<img src="https://pin.it/5z44vMLEK" alt="Deskripsi Gambar" width="200">
+
 
